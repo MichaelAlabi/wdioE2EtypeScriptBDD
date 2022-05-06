@@ -1,7 +1,7 @@
 # wdioE2EtypeScriptBDD
-## WDIO Automation
+### WDIO Automation
 
-## Install Node
+##### Install Node
 
-## Run Command: npm run wdio
+###### Run Command: npm run wdio
 
