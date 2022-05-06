@@ -3,5 +3,5 @@
 
 ##### Install Node
 
-###### Run Command: npm run wdio
+##### Run Command: npm run wdio
 
